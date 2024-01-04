@@ -4,3 +4,6 @@ if __name__ == "__main__":
     #print("Another change")
     #Also removed this. Let's diverge the history 
     #print("Change, introduced in github")
+    
+    #Let's create a merge conflict. 
+    print("Change, introduced in github")
